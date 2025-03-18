@@ -154,7 +154,7 @@ body {
 
 
 .home {
-    background: linear-gradient(to bottom, #0004, #000), url(./images/home.jpg);
+    background: linear-gradient(to bottom, #0004, #000), url(./assets/home.jpg);
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
